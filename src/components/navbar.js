@@ -7,7 +7,7 @@ return (
 <>
 <nav className="navbar navbar-expand-lg bg-body-tertiary">
   <div className="container-fluid">
-    <Link className="navbar-brand" href="#">MaxCyber</Link>
+    <Link className="navbar-brand" href="#">Max@Cyber</Link>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon" />
     </button>
@@ -27,6 +27,7 @@ return (
             <li><Link className="dropdown-item" href="#">พัฒนาซอฟต์แวร์</Link></li>
             <li><Link className="dropdown-item" href="#">ติดตั้ง Smart Farm</Link></li>
             <li><Link className="dropdown-item" href="#">บริการ Cloud Computing</Link></li>
+            <li><Link className="dropdown-item" href="#">บริการ AI Generation</Link></li>
           </ul>
         </li>
         <li className="nav-item">
