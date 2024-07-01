@@ -28,6 +28,7 @@ return (
             <li><Link className="dropdown-item" href="#">ติดตั้ง Smart Farm</Link></li>
             <li><Link className="dropdown-item" href="#">บริการ Cloud Computing</Link></li>
             <li><Link className="dropdown-item" href="#">บริการ AI Generation</Link></li>
+            <li><Link className="dropdown-item" href="#">บริการออกแบบ Network</Link></li>
           </ul>
         </li>
         <li className="nav-item">
